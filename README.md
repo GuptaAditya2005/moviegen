@@ -1,6 +1,6 @@
-# 🎬 CineGenre AI: Movie Genre Classification & Recommendation Engine
+# 🎬 MovieGen AI: Movie Genre Classification & Recommendation Engine
 
-A full-stack, production-ready NLP machine learning application and interactive Streamlit web dashboard. CineGenre AI classifies movie synopses into primary genres using **TF-IDF Vectorization** and **Multinomial Naive Bayes (`MultinomialNB`)**, paired with a **Cosine Similarity Content-Based Recommendation Engine**.
+A full-stack, production-ready NLP machine learning application and interactive Streamlit web dashboard. MovieGen AI classifies movie synopses into primary genres using **TF-IDF Vectorization** and **Multinomial Naive Bayes (`MultinomialNB`)**, paired with a **Cosine Similarity Content-Based Recommendation Engine**.
 
 ---
 

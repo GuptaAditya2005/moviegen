@@ -94,7 +94,7 @@ HTML_TEMPLATE = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CineVerse AI | Anime & Movie Genre Classifier & Recommender</title>
+  <title>MovieGen AI | Anime & Movie Genre Classifier & Recommender</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -526,7 +526,7 @@ HTML_TEMPLATE = """
   <nav class="navbar">
     <a href="/" class="nav-brand">
       <div class="brand-icon">▷</div>
-      <div class="brand-title">CINE<span class="brand-highlight">VERSE</span></div>
+      <div class="brand-title">MOVIE<span class="brand-highlight">GEN</span></div>
     </a>
     <div style="display: flex; align-items: center; gap: 1rem;">
       <span class="nav-tag">AI INTELLIGENCE</span>
@@ -666,7 +666,7 @@ HTML_TEMPLATE = """
   <!-- Footer -->
   <footer>
     <div style="margin-bottom: 0.4rem; font-weight: 800; color: #FFFFFF;">
-      CINE<span style="color: var(--brand-orange);">VERSE</span> AI
+      MOVIE<span style="color: var(--brand-orange);">GEN</span> AI
     </div>
     NLP Machine Learning System powered by TF-IDF & Multinomial Naive Bayes.
   </footer>

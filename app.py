@@ -15,7 +15,7 @@ import numpy as np
 
 # Page Configuration - Must be first Streamlit command
 st.set_page_config(
-    page_title="CineGenre AI | Movie Genre Classification & Recommendation",
+    page_title="MovieGen AI | Movie Genre Classification & Recommendation",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -287,7 +287,7 @@ with st.sidebar:
 
 
 # --- MAIN HEADER ---
-st.markdown('<div class="main-header"><span class="brand-logo-icon">▷</span> CINE<span class="orange-text">VERSE</span> AI</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header"><span class="brand-logo-icon">▷</span> MOVIE<span class="orange-text">GEN</span> AI</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Next-gen Natural Language Processing pipeline classifying synopses into genres with Naive Bayes & TF-IDF similarity.</div>', unsafe_allow_html=True)
 
 # Check model availability; offer training prompt if absent
